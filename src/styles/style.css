@@ -195,11 +195,15 @@ header a {
   margin: 55px;
 }
 
-.navigation .row {
+.navigation .row,
+.navigation .row2 {
   display: flex;
   gap: 30px;
   justify-content: center;
   margin-bottom: 30px;
+}
+.navigation .row {
+  height: 323px;
 }
 
 .navigation .row2 {
@@ -212,8 +216,8 @@ header a {
   flex: 0 0 502px;
 }
 
-.navigation .row > * {
-  height: 326px;
+.navigation .row > *,
+.navigation .row2 > * {
   flex: 1 0 350px;
 }
 
