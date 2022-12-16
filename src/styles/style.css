@@ -244,6 +244,10 @@ header a {
   margin: 0;
 }
 
+.navigation-card p {
+  margin-bottom: 0px;
+}
+
 .number {
   padding-bottom: 40px;
   font: 64px/1 Neucha, sans-serif;
