@@ -112,7 +112,6 @@ header img {
   right: -270px;
   z-index: auto;
   height: 525px;
-  z-index: auto;
 }
 
 .header-title {
@@ -127,7 +126,7 @@ header img {
 }
 
 header .column-text {
-  margin-top: 185px;
+  margin-top: 201px;
 }
 
 header .column-text div,
@@ -135,10 +134,6 @@ header .column-text div,
   z-index: 1;
   flex: 1 0 540px;
   margin: 0;
-}
-
-header .column-text p {
-  padding-top: 16px;
 }
 
 header a {
