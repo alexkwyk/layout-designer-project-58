@@ -99,7 +99,7 @@ header section {
   background-image: url("../assets/background.png");
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 0.9;
+  opacity: 0.1;
   overflow: hidden;
   content: "";
 }
