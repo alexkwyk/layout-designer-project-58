@@ -202,6 +202,7 @@ header a {
   justify-content: center;
   margin-bottom: 30px;
 }
+
 .navigation .row {
   height: 323px;
 }
@@ -233,7 +234,7 @@ header a {
   padding: 24px;
   color: var(--dark);
   text-decoration: none;
-  background-color: var(--white);
+  background-color: var(--white-semitransparent);
 }
 
 .navigation-card:hover,
