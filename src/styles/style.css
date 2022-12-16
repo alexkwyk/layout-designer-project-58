@@ -95,10 +95,12 @@ header section {
   z-index: auto;
   width: 1440px;
   height: 100%;
+  vertical-align: middle;
   background-image: url("../assets/background.png");
   background-repeat: no-repeat;
   background-size: cover;
   opacity: 0.9;
+  overflow: hidden;
   content: "";
 }
 
