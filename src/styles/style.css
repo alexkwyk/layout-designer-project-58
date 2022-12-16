@@ -204,6 +204,7 @@ header a {
 
 .navigation .row2 {
   margin: 0;
+  height: 348px;
   flex: 0 0 350px;
 }
 
@@ -212,6 +213,7 @@ header a {
 }
 
 .navigation .row > * {
+  height: 326px;
   flex: 1 0 350px;
 }
 
@@ -245,7 +247,7 @@ header a {
 }
 
 .navigation-card p {
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 .number {
