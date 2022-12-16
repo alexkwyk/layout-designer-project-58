@@ -192,6 +192,7 @@ header a {
 
 .footer-container > * {
   flex: 1 1 50%;
+  margin: 55px;
 }
 
 .navigation .row {
@@ -203,14 +204,15 @@ header a {
 
 .navigation .row2 {
   margin: 0;
+  flex: 0 0 350px;
 }
 
 .effect-header > * {
-  flex: 1 0 502px;
+  flex: 0 0 502px;
 }
 
 .navigation .row > * {
-  flex: 1 0 25%;
+  flex: 1 0 350px;
 }
 
 .navigation-title {
@@ -249,7 +251,6 @@ header a {
 }
 
 .footer-container h3 {
-  margin: 0;
   font-weight: 400;
   vertical-align: middle;
 }
@@ -324,8 +325,8 @@ header a {
 
 .footer-container {
   display: flex;
+  height: 190px;
   justify-content: space-between;
-  padding: 55px;
   color: var(--white);
   background-color: var(--main-dark);
 }
